@@ -1,4 +1,3 @@
 # MiaoHaoSunny.github.io
-Personal homepage
 
-<haomiao.website>
+[Hao Miao's personal homepage](haomiao.website)
