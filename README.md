@@ -1,3 +1,3 @@
 # MiaoHaoSunny.github.io
 
-[Hao Miao's personal homepage](haomiao.website)
+[Hao Miao's personal homepage](miaohaosunny.github.io)
