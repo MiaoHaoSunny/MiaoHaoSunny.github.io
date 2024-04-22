@@ -8,4 +8,4 @@ My main research interests lie in
 - Federated Learning, Continuous Learning
 - Graph Neural Network
 
-I have published 15+ papers <a href='https://scholar.google.com/citations?user=eRouT0MAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international computer science conferences and journals such as ICDE, IJCAI, CIKM, and TKDE. 
+I have published 15+ papers with total <a href='https://scholar.google.com/citations?user=eRouT0MAAAAJ'> Google Scholar citations <strong><span id='total_cit'>260+</span></strong></a> at the top international computer science conferences and journals such as ICDE, IJCAI, CIKM, and TKDE. 
