@@ -20,6 +20,6 @@ redirect_from:
 {% include_relative includes/others.md %}
 
 # 👀 Visitors
-<div style="text-align: left;">
+<div style="float: left;">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=jHHwvpNeh_7brAFqjgZgpAQM64XBZm_LZ-pLBIJqDts'></script>
 </div>
