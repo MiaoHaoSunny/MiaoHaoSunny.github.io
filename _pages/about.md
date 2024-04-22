@@ -21,5 +21,5 @@ redirect_from:
 
 # 👀 Visitors
 <div style="float: left;">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=jHHwvpNeh_7brAFqjgZgpAQM64XBZm_LZ-pLBIJqDts'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=tt&d=jHHwvpNeh_7brAFqjgZgpAQM64XBZm_LZ-pLBIJqDts'></script>
 </div>
