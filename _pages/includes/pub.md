@@ -15,7 +15,7 @@
 
 [LightTR: A Lightweight Framework for Federated Trajectory Recovery.]() <b><font color="red">[CCF A]</font></b>
 
-Ziqiao Liu+, **Hao Miao**+ (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng, Huan Li.
+Ziqiao Liu+, **Hao Miao**+ (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng, Huan Li. | [**Code**](https://github.com/uestc-liuzq/LightTR)
 </div>
 </div>
 
