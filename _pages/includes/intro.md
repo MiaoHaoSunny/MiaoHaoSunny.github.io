@@ -3,9 +3,9 @@ My name is Hao Miao. I am currently a PhD Fellow in the Department of Computer S
 I received my Master degree in Computer Science from Nanjing University of Aeronautics and Astronautics (NUAA) in 2021. From 2018 to 2021, I studied in BigData 4 Urban Intelligence Lab led by <a href="https://senzhangwangcsu.github.io/index.html">Prof. Senzhang Wang</a>. From August 2020 to April 2021, I was a research intern at Tencent supervised by Dr. Diansheng Guo. I also worked as Research Assistant at PolyU advised by Dr. Jiaxing Shen from May 2021 to November 2021.
 
 My main research interests lie in
-- Spatio-Temporal Data Mining
-- Trajectory Analytics
-- Federated Learning, Continuous Learning
-- Graph Neural Network
+- _Spatio-Temporal Data Mining_
+- _Trajectory Analytics_
+- _Federated Learning, Continuous Learning_
+- _Graph Neural Network_
 
 I have published 20+ papers <a href='https://scholar.google.com/citations?user=eRouT0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Fmiaohaosunny.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top-tier international conferences and journals such as ICDE, CIKM, and TKDE. 
