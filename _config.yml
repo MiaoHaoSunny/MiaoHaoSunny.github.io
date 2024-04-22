@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Hao Miao"
-description              : "Aalborg University"
-repository               : "PaperCodeList/PaperCodeList.github.io"
+description              : "Welcome to my homepage!"
+repository               : "MiaoHaoSunny/MiaoHaoSunny.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Miao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD Fellow"
+  bio              : "PhD Fellow, Aalborg University"
   location         : "Denmark"
   employer         :
   pubmed           : 
