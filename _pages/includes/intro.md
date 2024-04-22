@@ -4,7 +4,7 @@ I received my Master degree in Computer Science from Nanjing University of Aeron
 
 My main research interests lie in
 - _Spatio-Temporal Data Mining_
-- _Trajectory Analytics_
+- _Trajectory Analytics, Spatial Crowdsourcing_
 - _Federated Learning, Continuous Learning_
 - _Large Language Model, Graph Neural Network_
 
