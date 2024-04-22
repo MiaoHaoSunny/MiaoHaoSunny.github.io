@@ -9,3 +9,5 @@ My main research interests lie in
 - _Large Language Model, Graph Neural Network_
 
 I have published 20+ papers <a href='https://scholar.google.com/citations?user=eRouT0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Fmiaohaosunny.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top-tier international conferences and journals such as ICDE, CIKM, and TKDE. 
+
+_<b><font color="red">I am looking for Postdoctoral/Faculty positions. If you are interested, please feel free to <a href="mailto:haom@cs.aau.dk">contact me</a>.</font></b>_
