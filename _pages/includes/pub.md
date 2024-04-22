@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/URCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Unified Replay-based Continuous Learning Framework for Spatio-Temporal Prediction on Streaming Data](https://github.com/MiaoHaoSunny/URCL/blob/main/URCL.pdf)
+[A Unified Replay-based Continuous Learning Framework for Spatio-Temporal Prediction on Streaming Data](https://github.com/MiaoHaoSunny/URCL/blob/main/URCL.pdf) <b><font color="red">[CCF A]</font></b>
 
 **Hao Miao**, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Feiteng Huang, Jiandong Xie, Christian S. Jensen.
 </div>
@@ -13,7 +13,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/LightTR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LightTR: A Lightweight Framework for Federated Trajectory Recovery.]()
+[LightTR: A Lightweight Framework for Federated Trajectory Recovery.]() <b><font color="red">[CCF A]</font></b>
 
 Ziqiao Liu+, **Hao Miao**+ (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng, Huan Li.
 </div>
@@ -22,7 +22,7 @@ Ziqiao Liu+, **Hao Miao**+ (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng, H
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/TSEFL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Task Assignment with Efficient Federated Preference Learning in Spatial Crowdsourcing](https://www.computer.org/csdl/journal/tk/5555/01/10239279/1QcjHWgwhrO)
+[Task Assignment with Efficient Federated Preference Learning in Spatial Crowdsourcing](https://www.computer.org/csdl/journal/tk/5555/01/10239279/1QcjHWgwhrO) <b><font color="red">[CCF A]</font></b>
 
 **Hao Miao**, Xiaolong Zhong, Jiaxin Liu, Yan Zhao, Xiangyu Zhao, Weizhu Qian, Kai Zheng, and Christian S. Jensen.
 </div>
