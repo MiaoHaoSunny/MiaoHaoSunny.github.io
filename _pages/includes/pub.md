@@ -1,6 +1,5 @@
 
 # 📝 Publications 
-\*: Co-first Author, \#: Corresponding Author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/URCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,3 +47,5 @@ Ziqiao Liu\*, **Hao Miao**\* (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng,
 - ``MTA 2021`` Deep Learning based Origin-Destination Prediction via Contextual Information fusion, **Hao Miao**, Yan Fei, Senzhang wang, Fang Wang, Danyan Wen. <b><font color="red">[CCF C]</font></b>
 - ``AAAI 2021 Workshop`` Deep Multi-View Channel-Wise Spatio-Temporal Network for Traffic Flow Prediction(), Hao Miao, Senzhang Wang, Meiyue Zhang, Diansheng Guo, Funing Sun, Fan Yang.
 - ``CIKM 2020`` [Multi-task adversarial spatial-temporal networks for crowd flow prediction](https://dl.acm.org/doi/abs/10.1145/3340531.3412054), Senzhang Wang (Supervisor), **Hao Miao**, Hao Chen, Zhiqiu Huang. <b><font color="red">[CCF B]</font></b> \| [![](https://img.shields.io/github/stars/MiaoHaoSunny/MT-ASTN?style=social&label=MT-ASTN Stars)](https://github.com/MiaoHaoSunny/MT-ASTN)
+
+_\*: Co-first Author, \#: Corresponding Author_
