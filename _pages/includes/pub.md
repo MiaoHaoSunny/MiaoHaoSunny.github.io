@@ -17,7 +17,17 @@
 
 Ziqiao Liu+, **Hao Miao**+ (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng, Huan Li.  
 
-[**Code**](https://github.com/uestc-liuzq/LightTR)
+[**Code**](https://github.com/uestc-liuzq/LightTR) 
+<details>
+  <summary>Bib</summary>
+  <pre><code>
+  @inproceedings{liu2024icde,
+  title={LightTR: A Lightweight Framework for Federated Trajectory Recovery},
+  author={Liu, Ziqiao and Miao, Hao and Zhao, Yan and Liu, Chenxi and Zheng, Kai and Li, Huan},
+  booktitle={ICDE},
+  year={2024}}
+  </code></pre>
+</details>
 </div>
 </div>
 
