@@ -45,7 +45,7 @@ Ziqiao Liu\*, **Hao Miao**\* (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng,
 - ``SDM 2021`` [MT-STNets: Multi-Task Spatial-Temporal Networks for Multi-Scale Traffic Prediction](), Senzhang Wang, Meiyue Zhang, **Hao Miao**. <b><font color="red">[CCF B]</font></b>
 - ``TITS 2021`` [Spatio-Temporal Knowledge Transfer for Urban Crowd Flow Prediction via Deep Attentive Adaptation Networks](https://ieeexplore.ieee.org/document/9352560), Senzhang Wang (Supervisor), **Hao Miao**, Jiyue Li, Jiannong Cao. <b><font color="red">[CCF B]</font></b> \| [![](https://img.shields.io/github/stars/MiaoHaoSunny/ST-DAAN?style=social&label=ST-DAAN Stars)](https://github.com/MiaoHaoSunny/ST-DAAN)
 - ``MTA 2021`` Deep Learning based Origin-Destination Prediction via Contextual Information fusion, **Hao Miao**, Yan Fei, Senzhang wang, Fang Wang, Danyan Wen. <b><font color="red">[CCF C]</font></b>
-- ``AAAI 2021 Workshop`` Deep Multi-View Channel-Wise Spatio-Temporal Network for Traffic Flow Prediction(), Hao Miao, Senzhang Wang, Meiyue Zhang, Diansheng Guo, Funing Sun, Fan Yang.
+- ``AAAI 2021 Workshop`` [Deep Multi-View Channel-Wise Spatio-Temporal Network for Traffic Flow Prediction](http://arxiv.org/abs/2404.15034), Hao Miao, Senzhang Wang, Meiyue Zhang, Diansheng Guo, Funing Sun, Fan Yang.
 - ``CIKM 2020`` [Multi-task adversarial spatial-temporal networks for crowd flow prediction](https://dl.acm.org/doi/abs/10.1145/3340531.3412054), Senzhang Wang (Supervisor), **Hao Miao**, Hao Chen, Zhiqiu Huang. <b><font color="red">[CCF B]</font></b> \| [![](https://img.shields.io/github/stars/MiaoHaoSunny/MT-ASTN?style=social&label=MT-ASTN Stars)](https://github.com/MiaoHaoSunny/MT-ASTN)
 
   _**\*: Co-first Author, \#: Corresponding Author**_
