@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/URCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Unified Replay-based Continuous Learning Framework for Spatio-Temporal Prediction on Streaming Data](https://github.com/MiaoHaoSunny/URCL/blob/main/URCL.pdf) <b><font color="red">[CCF A]</font></b>
+[A Unified Replay-based Continuous Learning Framework for Spatio-Temporal Prediction on Streaming Data](https://arxiv.org/abs/2404.14999) <b><font color="red">[CCF A]</font></b>
 
 **Hao Miao**, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Feiteng Huang, Jiandong Xie, Christian S. Jensen.
 </div>
