@@ -21,6 +21,15 @@ Ziqiao Liu\*, **Hao Miao**\* (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2024</div><img src='images/PeFAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection]() <b><font color="red">[CCF A]</font></b>
+
+Ronghui Xu, **Hao Miao**, Senzhang Wang, Philip S. Yu, Jianxin Wang.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/TSEFL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
