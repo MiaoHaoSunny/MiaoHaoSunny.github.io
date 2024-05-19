@@ -22,7 +22,7 @@ Ronghui Xu, **Hao Miao**, Senzhang Wang, Philip S. Yu, Jianxin Wang.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/LightTR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LightTR: A Lightweight Framework for Federated Trajectory Recovery.](https://arxiv.org/abs/2405.03409) <b><font color="red">[CCF A]</font></b>
+[LightTR: A Lightweight Framework for Federated Trajectory Recovery](https://arxiv.org/abs/2405.03409) <b><font color="red">[CCF A]</font></b>
 
 Ziqiao Liu\*, **Hao Miao**\* (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng, Huan Li.  
 
