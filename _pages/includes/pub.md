@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2024</div><img src='images/PeFAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection]() <b><font color="red">[CCF A]</font></b>
+[PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection](https://arxiv.org/abs/2406.02318) <b><font color="red">[CCF A]</font></b>
 
 Ronghui Xu, **Hao Miao**, Senzhang Wang, Philip S. Yu, Jianxin Wang.
 </div>
