@@ -41,7 +41,7 @@ Ziqiao Liu\*, **Hao Miao**\* (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng,
 </div>
 
 - ``ECCV 2024`` [Dependency-aware Differentiable Neural Architecture Search](), Buang Zhang, Xinle Wu, **Hao Miao**, Bin Yang, Chenjuan Guo. <b><font color="red">[CCF B]</font></b>
-- ``IJCAI 2024`` [Score-CDM: Score-Weighted Convolutional Diffusion Model for Multivariate Time Series Imputation](), Shunyang Zhang, Senzhang Wang, **Hao Miao**, Changjun Fan, Hao Chen, Jian Zhang. <b><font color="red">[CCF A]</font></b>
+- ``IJCAI 2024`` [Score-CDM: Score-Weighted Convolutional Diffusion Model for Multivariate Time Series Imputation](https://arxiv.org/abs/2405.13075), Shunyang Zhang, Senzhang Wang, **Hao Miao**, Changjun Fan, Hao Chen, Jian Zhang. <b><font color="red">[CCF A]</font></b>
 - ``GeoInformatica 2023`` [Resisting TUL attack: balancing data privacy and utility on trajectory via collaborative adversarial learning](https://link.springer.com/article/10.1007/s10707-023-00507-3), Yandi Lun, **Hao Miao**, Jiaxing Shen, Renzhi Wang, Xiang Wang, Senzhang Wang. <b><font color="red">[CCF B]</font></b>
 - ``CIKM 2023`` [Personalized Location-Preference Learning for Federated Task Assignment in Spatial Crowdsourcing](https://dl.acm.org/doi/10.1145/3583780.3615008), Xiaolong Zhong, **Hao Miao**\#, Dazhuo Qiu, Yan Zhao\#, and Kai Zheng. <b><font color="red">[CCF B]</font></b>
 - ``AAAI 2023`` [AutoSTL: Automated Spatio-Temporal Multi-Task Learning](https://arxiv.org/abs/2304.09174), Zijian Zhang, Xiangyu Zhao, **Hao Miao**, Chunxu Zhang, Hongwei Zhao, Junbo Zhang. <b><font color="red">[CCF A]</font></b>
