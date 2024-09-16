@@ -1,7 +1,16 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2024</div><img src='images/PeFAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PVLDB 2025</div><img src='images/TimeDC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Less is More: Efficient Time Series Dataset Condensation via Two-fold Modal Matching]() <b><font color="red">[CCF A]</font></b>
+
+**Hao Miao**, Ziqiao Liu, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, and Christian S. Jensen.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2024</div><img src='images/PeFAD.png' alt="sym" width="100%"></div></div> \| [![](https://img.shields.io/github/stars/uestc-liuzq/STdistillation?style=social&label=TimeDC Stars)](https://github.com/uestc-liuzq/STdistillation)
 <div class='paper-box-text' markdown="1">
 
 [PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection](https://arxiv.org/abs/2406.02318) <b><font color="red">[CCF A]</font></b> \| [![](https://img.shields.io/github/stars/xu737/PeFAD?style=social&label=PeFAD Stars)](https://github.com/xu737/PeFAD)
@@ -31,15 +40,7 @@ Ziqiao Liu\*, **Hao Miao**\* (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/TSEFL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Task Assignment with Efficient Federated Preference Learning in Spatial Crowdsourcing](https://www.computer.org/csdl/journal/tk/5555/01/10239279/1QcjHWgwhrO) <b><font color="red">[CCF A]</font></b>
-
-**Hao Miao**, Xiaolong Zhong, Jiaxin Liu, Yan Zhao, Xiangyu Zhao, Weizhu Qian, Kai Zheng, and Christian S. Jensen.
-</div>
-</div>
-
+- ``TKDE 2024`` [Task Assignment with Efficient Federated Preference Learning in Spatial Crowdsourcing](https://www.computer.org/csdl/journal/tk/5555/01/10239279/1QcjHWgwhrO), **Hao Miao**, Xiaolong Zhong, Jiaxin Liu, Yan Zhao, Xiangyu Zhao, Weizhu Qian, Kai Zheng, and Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
 - ``ECCV 2024`` [Dependency-aware Differentiable Neural Architecture Search](), Buang Zhang, Xinle Wu, **Hao Miao**, Bin Yang, Chenjuan Guo. <b><font color="red">[CCF B]</font></b>
 - ``IJCAI 2024`` [Score-CDM: Score-Weighted Convolutional Diffusion Model for Multivariate Time Series Imputation](https://arxiv.org/abs/2405.13075), Shunyang Zhang, Senzhang Wang, **Hao Miao**, Changjun Fan, Hao Chen, Jian Zhang. <b><font color="red">[CCF A]</font></b>
 - ``GeoInformatica 2023`` [Resisting TUL attack: balancing data privacy and utility on trajectory via collaborative adversarial learning](https://link.springer.com/article/10.1007/s10707-023-00507-3), Yandi Lun, **Hao Miao**, Jiaxing Shen, Renzhi Wang, Xiang Wang, Senzhang Wang. <b><font color="red">[CCF B]</font></b>
