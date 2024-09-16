@@ -4,13 +4,13 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PVLDB 2025</div><img src='images/TimeDC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Less is More: Efficient Time Series Dataset Condensation via Two-fold Modal Matching]() <b><font color="red">[CCF A]</font></b>
+[Less is More: Efficient Time Series Dataset Condensation via Two-fold Modal Matching]() <b><font color="red">[CCF A]</font></b> \| [![](https://img.shields.io/github/stars/uestc-liuzq/STdistillation?style=social&label=TimeDC Stars)](https://github.com/uestc-liuzq/STdistillation)
 
 **Hao Miao**, Ziqiao Liu, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, and Christian S. Jensen.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2024</div><img src='images/PeFAD.png' alt="sym" width="100%"></div></div> \| [![](https://img.shields.io/github/stars/uestc-liuzq/STdistillation?style=social&label=TimeDC Stars)](https://github.com/uestc-liuzq/STdistillation)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2024</div><img src='images/PeFAD.png' alt="sym" width="100%"></div></div> 
 <div class='paper-box-text' markdown="1">
 
 [PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection](https://arxiv.org/abs/2406.02318) <b><font color="red">[CCF A]</font></b> \| [![](https://img.shields.io/github/stars/xu737/PeFAD?style=social&label=PeFAD Stars)](https://github.com/xu737/PeFAD)
