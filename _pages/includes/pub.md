@@ -1,6 +1,15 @@
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025</div><img src='images/FTSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Federated Trajectory Similarity Learning with Privacy-Preserving Clustering]() <b><font color="red">[CCF A]</font></b> 
+
+**Hao Miao**, Ziqiao Liu, Yan Zhao, Kai Zheng, Yupu Zhang, Christian S. Jensen.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PVLDB 2025</div><img src='images/TimeDC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
