@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025 submitted</div><img src='images/FTSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025</div><img src='images/FTSL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Federated Trajectory Similarity Learning with Privacy-Preserving Clustering]() <b><font color="red">[CCF A]</font></b> 
@@ -29,26 +29,8 @@ Ronghui Xu, **Hao Miao**, Senzhang Wang, Philip S. Yu, Jianxin Wang.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/URCL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Unified Replay-based Continuous Learning Framework for Spatio-Temporal Prediction on Streaming Data](https://arxiv.org/abs/2404.14999) <b><font color="red">[CCF A]</font></b>
-
-**Hao Miao**, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Feiteng Huang, Jiandong Xie, Christian S. Jensen.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/LightTR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LightTR: A Lightweight Framework for Federated Trajectory Recovery](https://arxiv.org/abs/2405.03409) <b><font color="red">[CCF A]</font></b>
-
-Ziqiao Liu\*, **Hao Miao**\* (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng, Huan Li.  
-
-[**Code**](https://github.com/uestc-liuzq/LightTR) 
-</div>
-</div>
-
+- ``ICDE 2024`` [A Unified Replay-based Continuous Learning Framework for Spatio-Temporal Prediction on Streaming Data](https://arxiv.org/abs/2404.14999), **Hao Miao**, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Feiteng Huang, Jiandong Xie, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
+- ``ICDE 2024`` [LightTR: A Lightweight Framework for Federated Trajectory Recovery](https://arxiv.org/abs/2405.03409), Ziqiao Liu\*, **Hao Miao**\* (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng, Huan Li. <b><font color="red">[CCF A]</font></b>
 - ``TKDE 2024`` [Task Assignment with Efficient Federated Preference Learning in Spatial Crowdsourcing](https://www.computer.org/csdl/journal/tk/5555/01/10239279/1QcjHWgwhrO), **Hao Miao**, Xiaolong Zhong, Jiaxin Liu, Yan Zhao, Xiangyu Zhao, Weizhu Qian, Kai Zheng, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
 - ``ECCV 2024`` [Dependency-aware Differentiable Neural Architecture Search](), Buang Zhang, Xinle Wu, **Hao Miao**, Bin Yang, Chenjuan Guo. <b><font color="red">[CCF B]</font></b>
 - ``IJCAI 2024`` [Score-CDM: Score-Weighted Convolutional Diffusion Model for Multivariate Time Series Imputation](https://arxiv.org/abs/2405.13075), Shunyang Zhang, Senzhang Wang, **Hao Miao**, Changjun Fan, Hao Chen, Jian Zhang. <b><font color="red">[CCF A]</font></b>
