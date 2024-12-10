@@ -18,18 +18,9 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2024</div><img src='images/PeFAD.png' alt="sym" width="100%"></div></div> 
-<div class='paper-box-text' markdown="1">
-
-[PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection](https://arxiv.org/abs/2406.02318) <b><font color="red">[CCF A]</font></b> \| [![](https://img.shields.io/github/stars/xu737/PeFAD?style=social&label=PeFAD Stars)](https://github.com/xu737/PeFAD)
-
-Ronghui Xu, **Hao Miao**, Senzhang Wang, Philip S. Yu, Jianxin Wang.
-
-</div>
-</div>
-
 - ``AAAI 2025`` [TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment](), Chenxi Liu, Qianxiong Xu, **Hao Miao**, Sun Yang, Lingzheng Zhang, Cheng Long, Ziyue Li, Rui Zhao. <b><font color="red">[CCF A]</font></b>
 - ``AAAI 2025`` [C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-aware Trajectory Prediction](), Zichen Wang\*, **Hao Miao\***, Senzhang Wang, Renzhi Wang, Jianxin Wang, Jian Zhang. <b><font color="red">[CCF A]</font></b>
+- ``SIGKDD 2024`` [PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection](https://arxiv.org/abs/2406.02318), Ronghui Xu, **Hao Miao**, Senzhang Wang, Philip S. Yu, Jianxin Wang. <b><font color="red">[CCF A]</font></b> \| [![](https://img.shields.io/github/stars/xu737/PeFAD?style=social&label=PeFAD Stars)](https://github.com/xu737/PeFAD)
 - ``ICDE 2024`` [A Unified Replay-based Continuous Learning Framework for Spatio-Temporal Prediction on Streaming Data](https://arxiv.org/abs/2404.14999), **Hao Miao**, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Feiteng Huang, Jiandong Xie, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
 - ``ICDE 2024`` [LightTR: A Lightweight Framework for Federated Trajectory Recovery](https://arxiv.org/abs/2405.03409), Ziqiao Liu\*, **Hao Miao**\* (Co-first Author), Yan Zhao, Chenxi Liu, Kai Zheng, Huan Li. <b><font color="red">[CCF A]</font></b>
 - ``TKDE 2024`` [Task Assignment with Efficient Federated Preference Learning in Spatial Crowdsourcing](https://www.computer.org/csdl/journal/tk/5555/01/10239279/1QcjHWgwhrO), **Hao Miao**, Xiaolong Zhong, Jiaxin Liu, Yan Zhao, Xiangyu Zhao, Weizhu Qian, Kai Zheng, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
