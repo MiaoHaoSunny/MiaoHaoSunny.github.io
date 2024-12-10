@@ -1,6 +1,5 @@
 # 📈 Tutorials
-- ``WWW 2025`` [Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era
-](), Zijian Zhang, **Hao Miao**, Yuxuan Liang, Yan Zhao, Xiao Han, Pengyue Jia, Bin Yang, Christian S. Jensen
+- ``WWW 2025`` [Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era](), Zijian Zhang, **Hao Miao**, Yuxuan Liang, Yan Zhao, Xiao Han, Pengyue Jia, Bin Yang, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
 
 # 📝 Publications 
 
