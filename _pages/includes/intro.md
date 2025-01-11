@@ -5,7 +5,7 @@ From 2018 to 2021, I studied Master in BigData 4 Urban Intelligence Lab led by <
 
 My main research interests lie in
 - _Spatio-Temporal Data Analytics_
-- _Trajectory Analytics_
+- _Trajectory Management_
 - _Spatial Crowdsourcing_
 
 <!-- I have published 10+ papers at top-tier DB/DM conferences and journals such as ICDE, CIKM, and TKDE. -->
