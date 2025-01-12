@@ -1,14 +1,5 @@
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025</div><img src='images/FTSL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Federated Trajectory Similarity Learning with Privacy-Preserving Clustering]() <b><font color="red">[CCF A]</font></b> 
-
-**Hao Miao**, Ziqiao Liu, Yan Zhao, Kai Zheng, Yupu Zhang, Christian S. Jensen.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PVLDB 2025</div><img src='images/TimeDC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -18,6 +9,7 @@
 </div>
 </div>
 
+- ``ICDE 2025`` [Federated Trajectory Similarity Learning with Privacy-Preserving Clustering](), **Hao Miao**, Ziqiao Liu, Yan Zhao, Kai Zheng, Yupu Zhang, Christian S. Jensen. <b><font color="red">[CCF A]</font></b> 
 - ``AAAI 2025`` [TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment](), Chenxi Liu, Qianxiong Xu, **Hao Miao**, Sun Yang, Lingzheng Zhang, Cheng Long, Ziyue Li, Rui Zhao. <b><font color="red">[CCF A]</font></b>
 - ``AAAI 2025`` [C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-aware Trajectory Prediction](), Zichen Wang, **Hao Miao**, Senzhang Wang, Renzhi Wang, Jianxin Wang, Jian Zhang. <b><font color="red">[CCF A]</font></b>
 - ``TKDE 2025`` [Spatio-Temporal Prediction on Streaming Data: A Unified Federated Continuous Learning Framework](), **Hao Miao**, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
