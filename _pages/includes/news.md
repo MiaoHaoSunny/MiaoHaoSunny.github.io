@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.01*: I will serve as an AC (ADS) and PC (Research) member of SIGKDD 2025
 - *2024.12*: I will serve as a PC member of ICML 2025
 - *2024.12*: 🎉 Two papers are accepted by AAAI 2025
 - *2024.12*: 🎉 One Tutorial is accepted by WWW 2025
