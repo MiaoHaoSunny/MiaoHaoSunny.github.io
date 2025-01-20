@@ -1,4 +1,4 @@
-# 📝 Publications 
+<!-- # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PVLDB 2025</div><img src='images/TimeDC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,3 +40,4 @@
 - ``WWW 2025`` [Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era](https://drive.google.com/file/d/1my5aEcz_P-SR4it6KSchWNfZgzMUHm5h/view), Zijian Zhang, **Hao Miao**, Yuxuan Liang, Yan Zhao, Xiao Han, Pengyue Jia, Bin Yang, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
 
   _**\*: Co-first Author, \#: Corresponding Author**_
+-- >
