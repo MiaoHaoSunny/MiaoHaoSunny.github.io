@@ -9,6 +9,7 @@
 </div>
 </div>
 
+<!--
 - ``ICDE 2025`` [Federated Trajectory Similarity Learning with Privacy-Preserving Clustering](), **Hao Miao**, Ziqiao Liu, Yan Zhao, Kai Zheng, Yupu Zhang, Christian S. Jensen. <b><font color="red">[CCF A]</font></b> 
 - ``AAAI 2025`` [TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment](), Chenxi Liu, Qianxiong Xu, **Hao Miao**, Sun Yang, Lingzheng Zhang, Cheng Long, Ziyue Li, Rui Zhao. <b><font color="red">[CCF A]</font></b>
 - ``AAAI 2025`` [C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-aware Trajectory Prediction](), Zichen Wang, **Hao Miao**, Senzhang Wang, Renzhi Wang, Jianxin Wang, Jian Zhang. <b><font color="red">[CCF A]</font></b>
@@ -39,5 +40,6 @@
 
 # 📈 Tutorials
 - ``WWW 2025`` [Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era](https://drive.google.com/file/d/1my5aEcz_P-SR4it6KSchWNfZgzMUHm5h/view), Zijian Zhang, **Hao Miao**, Yuxuan Liang, Yan Zhao, Xiao Han, Pengyue Jia, Bin Yang, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
+-->
 
   _**\*: Co-first Author, \#: Corresponding Author**_
