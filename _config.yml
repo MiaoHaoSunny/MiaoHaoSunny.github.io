@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Miao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : # "PhD Fellow, Aalborg University"
-  location         : # "Denmark"
+  bio              : "Researcher"
+  location         : "Denmark"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=eRouT0MAAAAJ&hl=zh-CN"
-  email            : # "haom@cs.aau.dk"
+  email            : "haom@cs.aau.dk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # "https://dblp.org/pid/276/5069-1.html"
-  orcid            : # "https://orcid.org/0000-0001-9346-7133"
+  orcid            : "https://orcid.org/0000-0001-9346-7133"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
