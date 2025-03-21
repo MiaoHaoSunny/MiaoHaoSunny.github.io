@@ -5,7 +5,7 @@
 
 [Less is More: Efficient Time Series Dataset Condensation via Two-fold Modal Matching]() <b><font color="red">[CCF A]</font></b> \| [![](https://img.shields.io/github/stars/uestc-liuzq/STdistillation?style=social&label=TimeDC Stars)](https://github.com/uestc-liuzq/STdistillation)
 
-**Hao Miao**, Ziqiao Liu, etc.
+**Hao Miao**, Ziqiao Liu, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Christian S. Jensen.
 </div>
 </div>
 
