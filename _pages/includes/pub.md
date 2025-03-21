@@ -1,3 +1,7 @@
+# 📈 Tutorials
+- ``WWW 2025`` Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era, Zijian Zhang, **Hao Miao**, Yuxuan Liang, Yan Zhao, Xiao Han, Pengyue Jia, Bin Yang, Christian S. Jensen. [Homepage](https://human-mobility.github.io/) \| [Video](https://drive.google.com/file/d/1my5aEcz_P-SR4it6KSchWNfZgzMUHm5h/view) \| <b><font color="red">[CCF A]</font></b>
+- ``MM 2025`` Multimodal Learning for Spatio-Temporal Data Mining, Yuxuan Liang, Siru Zhong, Xixuan Hao, Hao Miao, Yan Zhao, Qingsong Wen, Roger Zimmermann. <b><font color="red">[CCF A]</font></b>
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PVLDB 2025</div><img src='images/TimeDC.png' alt="sym" width="100%"></div></div>
@@ -38,10 +42,6 @@
 - ``AAAI 2021 Workshop`` [Deep Multi-View Channel-Wise Spatio-Temporal Network for Traffic Flow Prediction](http://arxiv.org/abs/2404.15034), Hao Miao, Senzhang Wang, Meiyue Zhang, Diansheng Guo, Funing Sun, Fan Yang.
 - ``CIKM 2020`` [Multi-task adversarial spatial-temporal networks for crowd flow prediction](https://dl.acm.org/doi/abs/10.1145/3340531.3412054), Senzhang Wang (Supervisor), **Hao Miao**, Hao Chen, Zhiqiu Huang. <b><font color="red">[CCF B]</font></b> \| [![](https://img.shields.io/github/stars/MiaoHaoSunny/MT-ASTN?style=social&label=MT-ASTN Stars)](https://github.com/MiaoHaoSunny/MT-ASTN)
 -->
-
-# 📈 Tutorials
-- ``WWW 2025`` Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era, Zijian Zhang, **Hao Miao**, Yuxuan Liang, Yan Zhao, Xiao Han, Pengyue Jia, Bin Yang, Christian S. Jensen. [Homepage](https://human-mobility.github.io/) \| [Video](https://drive.google.com/file/d/1my5aEcz_P-SR4it6KSchWNfZgzMUHm5h/view) \| <b><font color="red">[CCF A]</font></b>
-- ``MM 2025`` Multimodal Learning for Spatio-Temporal Data Mining, Yuxuan Liang, Siru Zhong, Xixuan Hao, Hao Miao, Yan Zhao, Qingsong Wen, Roger Zimmermann. <b><font color="red">[CCF A]</font></b>
 
 
   _**\*: Co-first Author, \#: Corresponding Author**_
