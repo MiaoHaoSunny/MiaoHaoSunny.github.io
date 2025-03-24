@@ -13,6 +13,7 @@
 </div>
 </div>
 
+<!--
 - ``ICDE 2025`` [Federated Trajectory Similarity Learning with Privacy-Preserving Clustering](), **Hao Miao**, Ziqiao Liu, Yan Zhao, Kai Zheng, Yupu Zhang, Christian S. Jensen. <b><font color="red">[CCF A]</font></b> 
 - ``AAAI 2025`` [TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment](), Chenxi Liu, Qianxiong Xu, **Hao Miao**, Sun Yang, Lingzheng Zhang, Cheng Long, Ziyue Li, Rui Zhao. <b><font color="red">[CCF A, Oral (Top 4.6%)]</font></b>
 - ``AAAI 2025`` [C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-aware Trajectory Prediction](), Zichen Wang, **Hao Miao**, Senzhang Wang, Renzhi Wang, Jianxin Wang, Jian Zhang. <b><font color="red">[CCF A, Oral (Top 4.6%)]</font></b>
@@ -40,5 +41,6 @@
 - ``MTA 2021`` Deep Learning based Origin-Destination Prediction via Contextual Information fusion, **Hao Miao**, Yan Fei, Senzhang wang, Fang Wang, Danyan Wen. <b><font color="red">[CCF C]</font></b>
 - ``AAAI 2021 Workshop`` [Deep Multi-View Channel-Wise Spatio-Temporal Network for Traffic Flow Prediction](http://arxiv.org/abs/2404.15034), Hao Miao, Senzhang Wang, Meiyue Zhang, Diansheng Guo, Funing Sun, Fan Yang.
 - ``CIKM 2020`` [Multi-task adversarial spatial-temporal networks for crowd flow prediction](https://dl.acm.org/doi/abs/10.1145/3340531.3412054), Senzhang Wang (Supervisor), **Hao Miao**, Hao Chen, Zhiqiu Huang. <b><font color="red">[CCF B]</font></b> \| [![](https://img.shields.io/github/stars/MiaoHaoSunny/MT-ASTN?style=social&label=MT-ASTN Stars)](https://github.com/MiaoHaoSunny/MT-ASTN)
+--!>
 
   _**\*: Co-first Author, \#: Corresponding Author**_
