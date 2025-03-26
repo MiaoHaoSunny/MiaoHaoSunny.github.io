@@ -13,9 +13,9 @@
 </div>
 </div>
 
-- ``ICDE 2025`` [Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation](), Chenxi Liu, Hao Miao, Qianxiong Xu, Shaowen Zhou, Cheng Long, Yan Zhao, Ziyue Li, Rui Zhao. <b><font color="red">[CCF A]</font></b> 
-- ``ICDE 2025`` [Sustainability-Oriented Task Recommendation in Spatial Crowdsourcing](), Jinwen Chen, Hao Miao, Dazhuo Qiu, Jiannan Guo, Yawen Li, Yan Zhao. <b><font color="red">[CCF A]</font></b> 
 - ``ICDE 2025`` [Federated Trajectory Similarity Learning with Privacy-Preserving Clustering](), **Hao Miao**, Ziqiao Liu, Yan Zhao, Kai Zheng, Yupu Zhang, Christian S. Jensen. <b><font color="red">[CCF A]</font></b> 
+- ``ICDE 2025`` [Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation](), Chenxi Liu, **Hao Miao**, Qianxiong Xu, Shaowen Zhou, Cheng Long, Yan Zhao, Ziyue Li, Rui Zhao. <b><font color="red">[CCF A]</font></b> 
+- ``ICDE 2025`` [Sustainability-Oriented Task Recommendation in Spatial Crowdsourcing](), Jinwen Chen, **Hao Miao**, Dazhuo Qiu, Jiannan Guo, Yawen Li, Yan Zhao. <b><font color="red">[CCF A]</font></b> 
 - ``AAAI 2025`` [TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment](), Chenxi Liu, Qianxiong Xu, **Hao Miao**, Sun Yang, Lingzheng Zhang, Cheng Long, Ziyue Li, Rui Zhao. <b><font color="red">[CCF A, Oral (Top 4.6%)]</font></b>
 - ``AAAI 2025`` [C2F-TP: A Coarse-to-Fine Denoising Framework for Uncertainty-aware Trajectory Prediction](), Zichen Wang, **Hao Miao**, Senzhang Wang, Renzhi Wang, Jianxin Wang, Jian Zhang. <b><font color="red">[CCF A, Oral (Top 4.6%)]</font></b>
 - ``TKDE 2025`` [Spatio-Temporal Prediction on Streaming Data: A Unified Federated Continuous Learning Framework](), **Hao Miao**, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
