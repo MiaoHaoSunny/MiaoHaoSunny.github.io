@@ -13,6 +13,7 @@
 </div>
 </div>
 
+- ``IJCAI 2025`` [Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era](), Chenxi Liu, Shaowen Zhou, Qianxiong Xu, **Hao Miao**, Cheng Long, Ziyue Li, Rui Zhao. <b><font color="red">[CCF A]</font></b>
 - ``ICDE 2025`` [Federated Trajectory Similarity Learning with Privacy-Preserving Clustering](), **Hao Miao**, Ziqiao Liu, Yan Zhao, Kai Zheng, Yupu Zhang, Christian S. Jensen. <b><font color="red">[CCF A]</font></b> \| [![](https://img.shields.io/github/stars/MiaoHaoSunny/F-TSL?style=social&label=F-TSL Stars)](https://github.com/MiaoHaoSunny/F-TSL)
 - ``ICDE 2025`` [Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation](), Chenxi Liu, **Hao Miao**, Qianxiong Xu, Shaowen Zhou, Cheng Long, Yan Zhao, Ziyue Li, Rui Zhao. <b><font color="red">[CCF A]</font></b> \| [![](https://img.shields.io/github/stars/ChenxiLiu-HNU/TimeKD?style=social&label=TimeKD Stars)](https://github.com/ChenxiLiu-HNU/TimeKD)
 - ``ICDE 2025`` [Sustainability-Oriented Task Recommendation in Spatial Crowdsourcing](), Jinwen Chen, **Hao Miao**, Dazhuo Qiu, Jiannan Guo, Yawen Li, Yan Zhao. <b><font color="red">[CCF A]</font></b> \| [![](https://img.shields.io/github/stars/007cod/SOTR?style=social&label=SOTR Stars)](https://github.com/007cod/SOTR)
