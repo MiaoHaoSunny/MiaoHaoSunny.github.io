@@ -13,6 +13,7 @@
 </div>
 </div>
 
+- ``ICML 2025`` [Efficient Graph Continual Learning via Lightweight Graph Neural Tangent Kernels-based Dataset Distillation](), Rihong Qiu\*, Xinke Jiang\*, Yuchen Fang\*, Lai Hongbin\*, **Hao Miao**\*, Xu Chu, Junfeng Zhao, Yasha Wang. <b><font color="red">[CCF A]</font></b>
 - ``IJCAI 2025`` [Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era](), Chenxi Liu, Shaowen Zhou, Qianxiong Xu, **Hao Miao**, Cheng Long, Ziyue Li, Rui Zhao. <b><font color="red">[CCF A]</font></b>
 - ``ICDE 2025`` [Federated Trajectory Similarity Learning with Privacy-Preserving Clustering](), **Hao Miao**, Ziqiao Liu, Yan Zhao, Kai Zheng, Yupu Zhang, Christian S. Jensen. <b><font color="red">[CCF A]</font></b> \| [![](https://img.shields.io/github/stars/MiaoHaoSunny/F-TSL?style=social&label=F-TSL Stars)](https://github.com/MiaoHaoSunny/F-TSL)
 - ``ICDE 2025`` [Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation](), Chenxi Liu, **Hao Miao**, Qianxiong Xu, Shaowen Zhou, Cheng Long, Yan Zhao, Ziyue Li, Rui Zhao. <b><font color="red">[CCF A]</font></b> \| [![](https://img.shields.io/github/stars/ChenxiLiu-HNU/TimeKD?style=social&label=TimeKD Stars)](https://github.com/ChenxiLiu-HNU/TimeKD)
