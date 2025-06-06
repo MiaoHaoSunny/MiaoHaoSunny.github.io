@@ -2,6 +2,10 @@
 - ``WWW 2025`` Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era, Zijian Zhang, **Hao Miao**, Yuxuan Liang, Yan Zhao, Xiao Han, Pengyue Jia, Bin Yang, Christian S. Jensen. [Homepage](https://human-mobility.github.io/) \| [Video](https://drive.google.com/file/d/1my5aEcz_P-SR4it6KSchWNfZgzMUHm5h/view) \| <b><font color="red">[CCF A]</font></b>
 - ``MM 2025`` Multimodal Learning for Spatio-Temporal Data Mining, Yuxuan Liang, Siru Zhong, Xixuan Hao, Hao Miao, Yan Zhao, Qingsong Wen, Roger Zimmermann. <b><font color="red">[CCF A]</font></b>
 
+# 📖 Pre-prints
+- ``Arxiv`` [Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review](https://arxiv.org/abs/2506.01364), Yuchen Fang, **Hao Miao**, Yuxuan Liang, Liwei Deng, Ximu Zeng, Yuyang Xia, Yan Zhao, Torben Bach Pedersen, Christian S. Jensen, Xiaofang Zhou, Kai Zheng.
+- ``Arxiv`` [SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation](https://arxiv.org/abs/2506.01705), Yinghui Liu\*, **Hao Miao**\*, Guojiang Shen, Yan Zhao, Xiangjie Kong, Ivan Lee.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PVLDB 2025</div><img src='images/TimeDC.png' alt="sym" width="100%"></div></div>
