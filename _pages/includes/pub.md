@@ -1,6 +1,7 @@
 # 📈 Tutorials
 - ``WWW 2025`` Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era, Zijian Zhang, **Hao Miao**, Yuxuan Liang, Yan Zhao, Xiao Han, Pengyue Jia, Bin Yang, Christian S. Jensen. [Homepage](https://human-mobility.github.io/) \| [Video](https://drive.google.com/file/d/1my5aEcz_P-SR4it6KSchWNfZgzMUHm5h/view) \| <b><font color="red">[CCF A]</font></b>
 - ``MM 2025`` Multimodal Learning for Spatio-Temporal Data Mining, Yuxuan Liang, Siru Zhong, Xixuan Hao, Hao Miao, Yan Zhao, Qingsong Wen, Roger Zimmermann. <b><font color="red">[CCF A]</font></b>
+- ``SSTD 2025`` LLMs Meet Cross-Modal Time Series Analytics: Overview and Directions, Chenxi Liu, **Hao Miao**, Cheng Long, Yan Zhao, Ziyue Li, Panos Kalnis.
 
 # 📖 Pre-prints
 - ``Arxiv`` [Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review](https://arxiv.org/abs/2506.01364), Yuchen Fang, **Hao Miao**, Yuxuan Liang, Liwei Deng, Yue Cui, Ximu Zeng, Yuyang Xia, Yan Zhao, Torben Bach Pedersen, Christian S. Jensen, Xiaofang Zhou, Kai Zheng. [![](https://img.shields.io/github/stars/LMissher/Awesome-Spatio-Temporal-Foundation-Models?style=social&label=Awesome-Spatio-Temporal-Foundation-Models)](https://github.com/LMissher/Awesome-Spatio-Temporal-Foundation-Models)
