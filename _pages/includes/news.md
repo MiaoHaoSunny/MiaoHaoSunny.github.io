@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.07*: Happy to join [IEEE Task Force on AI4ST](https://cis.taskforce.ieee.org/ai4tst/).
 - *2025.06*: Join PolyU as a Research Assistant Professor!
 - *2025.06*: I will serve as PC for ICDM 2026 and WSDM 2026.
 - *2025.05*: Two Papers are accepted by ICML 2025 and SIGKDD 2025, respectively.
