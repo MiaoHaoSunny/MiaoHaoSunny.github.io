@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.07*: Received PVLDB 2025 Travel Award.
 - *2025.07*: Happy to join [IEEE Task Force on AI4ST](https://cis.taskforce.ieee.org/ai4tst/).
 - *2025.06*: Join PolyU as a Research Assistant Professor!
 - *2025.06*: I will serve as PC for ICDM 2026 and WSDM 2026.
