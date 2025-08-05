@@ -19,6 +19,7 @@
 </div>
 </div>
 
+- ``CIKM 2025`` [Traffic Safety Evaluation Based on Macroscopic Traffic Features in Road Tunnels](), Yupu Zhang, Lei Jia, **Hao Miao**, Weizhu Qian, Yan Zhao, Kai Zheng. <b><font color="red">[CCF B]</font></b>
 - ``ICML 2025`` [Efficient Graph Continual Learning via Lightweight Graph Neural Tangent Kernels-based Dataset Distillation](), Rihong Qiu\*, Xinke Jiang\*, Yuchen Fang\*, Lai Hongbin\*, **Hao Miao**\*, Xu Chu, Junfeng Zhao, Yasha Wang. <b><font color="red">[CCF A]</font></b>
 - ``SIGKDD 2025`` [Unsupervised Time Series Anomaly Prediction with Importance-based Generative Contrastive Learning](), Kai Zhao, Zhihao Zhuang, Chenjuan Guo, **Hao Miao**, Christian S. Jensen, Yunyao Cheng, Bin Yang. <b><font color="red">[CCF A]</font></b>
 - ``IJCAI 2025`` [Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era](), Chenxi Liu, Shaowen Zhou, Qianxiong Xu, **Hao Miao**, Cheng Long, Ziyue Li, Rui Zhao. <b><font color="red">[CCF A]</font></b>
