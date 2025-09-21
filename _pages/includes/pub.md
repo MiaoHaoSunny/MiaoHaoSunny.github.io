@@ -19,7 +19,7 @@
 
 - ``NeurIPS 2025`` [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](), Haoyu Zhang\*, Wentao Zhang\*, **Hao Miao**\*, Xinke Jiang, Yuchen Fang, Yifan Zhang. <b><font color="red">[CCF A]</font></b>
 - ``NeurIPS 2025`` [SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation](), Yinghui Liu\*, **Hao Miao**\*, Guojiang Shen, Yan Zhao, Xiangjie Kong, Ivan Lee. <b><font color="red">[CCF A]</font></b>
-- ``NeurIPS 2025`` [TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting](), MIngyuan Xia, Chunxu Zhang, Zijian Zhang, **Hao Miao**, Qidong Liu, Yuanshao Zhu, Bo Yang. <b><font color="red">[CCF A]</font></b>
+- ``NeurIPS 2025`` [TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting](), Mingyuan Xia, Chunxu Zhang, Zijian Zhang, **Hao Miao**, Qidong Liu, Yuanshao Zhu, Bo Yang. <b><font color="red">[CCF A]</font></b>
 - ``CIKM 2025`` [Traffic Safety Evaluation Based on Macroscopic Traffic Features in Road Tunnels](), Yupu Zhang, Lei Jia, **Hao Miao**, Weizhu Qian, Yan Zhao, Kai Zheng. <b><font color="red">[CCF B]</font></b>
 - ``ICML 2025`` [Efficient Graph Continual Learning via Lightweight Graph Neural Tangent Kernels-based Dataset Distillation](), Rihong Qiu\*, Xinke Jiang\*, Yuchen Fang\*, Lai Hongbin\*, **Hao Miao**\*, Xu Chu, Junfeng Zhao, Yasha Wang. <b><font color="red">[CCF A]</font></b>
 - ``SIGKDD 2025`` [Unsupervised Time Series Anomaly Prediction with Importance-based Generative Contrastive Learning](), Kai Zhao, Zhihao Zhuang, Chenjuan Guo, **Hao Miao**, Christian S. Jensen, Yunyao Cheng, Bin Yang. <b><font color="red">[CCF A]</font></b>
