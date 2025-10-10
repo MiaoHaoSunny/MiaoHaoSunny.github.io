@@ -6,9 +6,9 @@ From 2018 to 2021, I studied Master in BigData 4 Urban Intelligence Lab led by <
 My main research interests lie in
 - _Spatio-Temporal Data Analytics_
 - _Trajectory Management_
-- _Spatial Crowdsourcing_
+- _Large Language Models_
 
 <!-- I have published 10+ papers at top-tier DB/DM conferences and journals such as ICDE, CIKM, and TKDE. -->
-<!-- <a href='https://scholar.google.com/citations?user=eRouT0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Fmiaohaosunny.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+<!-- <a href='https://scholar.google.com/citations?user=eRouT0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Fmiaohaosunny.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-<em><i><b><font color="red">If you are interested in research collaboration, please feel free to <a href="mailto:haom@cs.aau.dk">contact me</a>.</font></b></i></em> :-) -->
+<em><i><b><font color="red"> I am recruiting Full-time/Part-time Research Assistants ([Application Lind](https://jobs.polyu.edu.hk/job_detail.php?job=251010015)). If you are interested, please feel free to <a href="mailto:hao.miao@polyu.edu.hk">contact Dr. Miao</a>.</font></b></i></em> :-) 
