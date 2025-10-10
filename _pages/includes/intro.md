@@ -11,4 +11,4 @@ My main research interests lie in
 <!-- I have published 10+ papers at top-tier DB/DM conferences and journals such as ICDE, CIKM, and TKDE. -->
 <!-- <a href='https://scholar.google.com/citations?user=eRouT0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Fmiaohaosunny.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-<em><i><b><font color="red"> I am recruiting Full-time/Part-time Research Assistants ([Application Link](https://jobs.polyu.edu.hk/job_detail.php?job=251010015)). If you are interested or have any questions, please feel free to <a href="mailto:hao.miao@polyu.edu.hk">contact Dr. Miao</a>.</font></b></i></em> :-) 
+<em><i><b><font color="red"> I am recruiting Full-time/Part-time Research Assistants (<a href="https://jobs.polyu.edu.hk/job_detail.php?job=251010015">Application Link</a>). If you are interested or have any questions, please feel free to <a href="mailto:hao.miao@polyu.edu.hk">send an E-mail</a>.</font></b></i></em> :-) 
