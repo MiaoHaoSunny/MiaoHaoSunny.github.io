@@ -17,6 +17,8 @@
 </div>
 </div>
 
+- ``AAAI 2026`` [Adaptive Frequency Pathways for Spatiotemporal Forecasting](), Yanjun Qin, Yuchen Fang, Xinke Jiang, **Hao Miao**\*, Xiaoming Tao. <b><font color="red">[CCF A]</font></b>
+- ``AAAI 2026`` [Task-Aware Retrieval Augmentation for Dynamic Recommendation](), Zhen Tao, Xinke Jiang, Qingshuai Feng, Haoyu Zhang, Lun Du, Yuchen Fang, **Hao Miao**, Bangquan Xie, Qingqiang Sun. <b><font color="red">[CCF A]</font></b>
 - ``NeurIPS 2025`` [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](), Haoyu Zhang\*, Wentao Zhang\*, **Hao Miao**\*, Xinke Jiang, Yuchen Fang, Yifan Zhang. <b><font color="red">[CCF A]</font></b>
 - ``NeurIPS 2025`` [SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation](), Yinghui Liu\*, **Hao Miao**\*, Guojiang Shen, Yan Zhao, Xiangjie Kong, Ivan Lee. <b><font color="red">[CCF A]</font></b>
 - ``NeurIPS 2025`` [TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting](), Mingyuan Xia, Chunxu Zhang, Zijian Zhang, **Hao Miao**, Qidong Liu, Yuanshao Zhu, Bo Yang. <b><font color="red">[CCF A]</font></b>
