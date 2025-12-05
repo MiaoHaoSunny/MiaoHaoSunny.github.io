@@ -1,4 +1,5 @@
 # 📈 Tutorials
+- ``WWW 2026`` LLM-Enhanced Web-Centric Spatio-Temporal Intelligence: Methods, Applications, and Frontier Research, Zijian Zhang, **Hao Miao**, Yuxuan Liang, Yan Zhao, Irwin King. <b><font color="red">[CCF A]</font></b>
 - ``WWW 2025`` Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era, Zijian Zhang, **Hao Miao**, Yuxuan Liang, Yan Zhao, Xiao Han, Pengyue Jia, Bin Yang, Christian S. Jensen. [Homepage](https://human-mobility.github.io/) \| [Video](https://drive.google.com/file/d/1my5aEcz_P-SR4it6KSchWNfZgzMUHm5h/view) \| <b><font color="red">[CCF A]</font></b>
 - ``MM 2025`` Multimodal Learning for Spatio-Temporal Data Mining, Yuxuan Liang, Siru Zhong, Xixuan Hao, Hao Miao, Yan Zhao, Qingsong Wen, Roger Zimmermann. <b><font color="red">[CCF A]</font></b>
 - ``SSTD 2025`` LLMs Meet Cross-Modal Time Series Analytics: Overview and Directions, Chenxi Liu, **Hao Miao**, Cheng Long, Yan Zhao, Ziyue Li, Panos Kalnis. [Homepage](https://llm-cmts.github.io/)
