@@ -14,7 +14,7 @@
 **Hao Miao**, Ziqiao Liu, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Christian S. Jensen.
 </div>
 </div>
-- ``TKDE 2026`` [Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review](https://arxiv.org/abs/2506.01364), Yuchen Fang, **Hao Miao**, Yuxuan Liang, Liwei Deng, Yue Cui, Ximu Zeng, Yuyang Xia, Yan Zhao, Torben Bach Pedersen, Christian S. Jensen, Xiaofang Zhou, Kai Zheng. <b><font color="red">[CCF A]</font></b> 
+- ``TKDE 2026`` [Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review](https://arxiv.org/abs/2506.01364), Yuchen Fang, **Hao Miao**, Yuxuan Liang, Liwei Deng, Yue Cui, Ximu Zeng, Yuyang Xia, Yan Zhao, Torben Bach Pedersen, Christian S. Jensen, Xiaofang Zhou, Kai Zheng. <b><font color="red">[CCF A]</font></b>  \| [![](https://img.shields.io/github/stars/LMissher/Awesome-Spatio-Temporal-Foundation-Models?style=social&label=Awesome-Spatio-Temporal-Foundation-Models)](https://github.com/LMissher/Awesome-Spatio-Temporal-Foundation-Models)
 - ``TKDE 2026`` [LightTR+: A Lightweight Incremental Framework for Federated Trajectory Recovery](), **Hao Miao**, Ziqiao Liu, Yan Zhao, Chenxi Liu, Chenjuan Guo, Bin Yang, Kai Zheng, Huan Li, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
 - ``AAAI 2026`` [Adaptive Frequency Pathways for Spatiotemporal Forecasting](), Yanjun Qin, Yuchen Fang, Xinke Jiang, **Hao Miao**\#, Xiaoming Tao. <b><font color="red">[CCF A]</font></b>
 - ``AAAI 2026`` [Task-Aware Retrieval Augmentation for Dynamic Recommendation](), Zhen Tao, Xinke Jiang, Qingshuai Feng, Haoyu Zhang, Lun Du, Yuchen Fang, **Hao Miao**, Bangquan Xie, Qingqiang Sun. <b><font color="red">[CCF A]</font></b>
