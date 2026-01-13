@@ -14,6 +14,10 @@
 **Hao Miao**, Ziqiao Liu, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Christian S. Jensen.
 </div>
 </div>
+- ``WWW 2026`` [Evolving Proxy Kills Drift: Data-Efficient Streaming Time Series Anomaly Detection](), Qing Wei\*, **Hao Miao**\*, Yan Zhao, Kai Zheng, Bin Yang, Volker Markl, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
+- ``WWW 2026`` [VisionST: Coordinating Cross-modal Traffic Prediction with Interactive Geo-image Encoding](), Jinwen Chen\*, **Hao Miao**\*, Chenxi Liu, Yan Zhao, Kai Zheng. <b><font color="red">[CCF A]</font></b>
+- ``WWW 2026`` [FedDis: A Causal Disentanglement Framework for Federated Traffic Prediction](), Chengyang Zhou, Zijian Zhang, Chunxu Zhang, **Hao Miao**, Yulin Zhang, Kedi Lyu, Juncheng Hu. <b><font color="red">[CCF A]</font></b>
+- ``WWW 2026`` [UrbanMoE: A Sparse Multi-Modal Mixture-of-Experts Framework for Multi-Task Urban Region Profiling](), Pingping Liu, Jiamiao Liu, Zijian Zhang, **Hao Miao**, Qi Jiang, Qingliang Li, Qiuzhan Zhou, Irwin King. <b><font color="red">[CCF A]</font></b>
 - ``TKDE 2026`` [Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review](https://arxiv.org/abs/2506.01364), Yuchen Fang, **Hao Miao**, Yuxuan Liang, Liwei Deng, Yue Cui, Ximu Zeng, Yuyang Xia, Yan Zhao, Torben Bach Pedersen, Christian S. Jensen, Xiaofang Zhou, Kai Zheng. <b><font color="red">[CCF A]</font></b>  \| [![](https://img.shields.io/github/stars/LMissher/Awesome-Spatio-Temporal-Foundation-Models?style=social&label=Awesome-Spatio-Temporal-Foundation-Models)](https://github.com/LMissher/Awesome-Spatio-Temporal-Foundation-Models)
 - ``TKDE 2026`` [LightTR+: A Lightweight Incremental Framework for Federated Trajectory Recovery](), **Hao Miao**, Ziqiao Liu, Yan Zhao, Chenxi Liu, Chenjuan Guo, Bin Yang, Kai Zheng, Huan Li, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
 - ``AAAI 2026`` [Adaptive Frequency Pathways for Spatiotemporal Forecasting](), Yanjun Qin, Yuchen Fang, Xinke Jiang, **Hao Miao**\#, Xiaoming Tao. <b><font color="red">[CCF A]</font></b>
