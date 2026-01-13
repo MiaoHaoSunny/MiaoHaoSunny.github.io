@@ -5,15 +5,6 @@
 - ``SSTD 2025`` LLMs Meet Cross-Modal Time Series Analytics: Overview and Directions, Chenxi Liu, **Hao Miao**, Cheng Long, Yan Zhao, Ziyue Li, Panos Kalnis. [Homepage](https://llm-cmts.github.io/)
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PVLDB 2025</div><img src='images/TimeDC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Less is More: Efficient Time Series Dataset Condensation via Two-fold Modal Matching]() <b><font color="red">[CCF A]</font></b> \| [![](https://img.shields.io/github/stars/uestc-liuzq/STdistillation?style=social&label=TimeDC)](https://github.com/uestc-liuzq/STdistillation)
-
-**Hao Miao**, Ziqiao Liu, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Christian S. Jensen.
-</div>
-</div>
 - ``WWW 2026`` [Evolving Proxy Kills Drift: Data-Efficient Streaming Time Series Anomaly Detection](), Qing Wei\*, **Hao Miao**\*, Yan Zhao, Kai Zheng, Bin Yang, Volker Markl, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
 - ``WWW 2026`` [VisionST: Coordinating Cross-modal Traffic Prediction with Interactive Geo-image Encoding](), Jinwen Chen\*, **Hao Miao**\*, Chenxi Liu, Yan Zhao, Kai Zheng. <b><font color="red">[CCF A]</font></b>
 - ``WWW 2026`` [FedDis: A Causal Disentanglement Framework for Federated Traffic Prediction](), Chengyang Zhou, Zijian Zhang, Chunxu Zhang, **Hao Miao**, Yulin Zhang, Kedi Lyu, Juncheng Hu. <b><font color="red">[CCF A]</font></b>
@@ -22,6 +13,7 @@
 - ``TKDE 2026`` [LightTR+: A Lightweight Incremental Framework for Federated Trajectory Recovery](), **Hao Miao**, Ziqiao Liu, Yan Zhao, Chenxi Liu, Chenjuan Guo, Bin Yang, Kai Zheng, Huan Li, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
 - ``AAAI 2026`` [Adaptive Frequency Pathways for Spatiotemporal Forecasting](), Yanjun Qin, Yuchen Fang, Xinke Jiang, **Hao Miao**\#, Xiaoming Tao. <b><font color="red">[CCF A]</font></b>
 - ``AAAI 2026`` [Task-Aware Retrieval Augmentation for Dynamic Recommendation](), Zhen Tao, Xinke Jiang, Qingshuai Feng, Haoyu Zhang, Lun Du, Yuchen Fang, **Hao Miao**, Bangquan Xie, Qingqiang Sun. <b><font color="red">[CCF A]</font></b>
+- ``PVLDB 2025`` [Less is More: Efficient Time Series Dataset Condensation via Two-fold Modal Matching](), **Hao Miao**, Ziqiao Liu, Yan Zhao, Chenjuan Guo, Bin Yang, Kai Zheng, Christian S. Jensen. <b><font color="red">[CCF A]</font></b> \| [![](https://img.shields.io/github/stars/uestc-liuzq/STdistillation?style=social&label=TimeDC)](https://github.com/uestc-liuzq/STdistillation)
 - ``NeurIPS 2025`` [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](), Haoyu Zhang\*, Wentao Zhang\*, **Hao Miao**\*, Xinke Jiang, Yuchen Fang, Yifan Zhang. <b><font color="red">[CCF A]</font></b>
 - ``NeurIPS 2025`` [SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation](), Yinghui Liu\*, **Hao Miao**\*, Guojiang Shen, Yan Zhao, Xiangjie Kong, Ivan Lee. <b><font color="red">[CCF A]</font></b>
 - ``NeurIPS 2025`` [TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting](), Mingyuan Xia, Chunxu Zhang, Zijian Zhang, **Hao Miao**, Qidong Liu, Yuanshao Zhu, Bo Yang. <b><font color="red">[CCF A]</font></b>
