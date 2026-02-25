@@ -1,5 +1,6 @@
 # 🔥 News
-- *2026.02*: I will serve as SPC of SIGKDD 2026 (Research and ADS Track).
+- *2026.02*: One paper accepted by ICDE 2026.
+- *2026.02*: I will serve as AC of SIGKDD 2026 (Research and ADS Track).
 - *2026.01*: I will serve as SPC of IJCAI 2026.
 - *2026.01*: Four papers accepted by WWW 2026 (4/4).
 - *2025.12*: One Tutorial of Spatio-Temporal Intelligence Accepted by WWW 2026.
