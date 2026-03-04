@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.03*: We will organize a workshop, Foundation Models for Urban Analytics and Intelligence: From Theory to Real-World Impact, at ECML-PKDD 2026, Naples, Italy.
 - *2026.02*: One paper accepted by ICDE 2026.
 - *2026.02*: I will serve as AC of SIGKDD 2026 (Research and ADS Track).
 - *2026.01*: I will serve as SPC of IJCAI 2026.
