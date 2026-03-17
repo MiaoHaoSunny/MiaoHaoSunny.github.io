@@ -5,6 +5,7 @@
 - ``SSTD 2025`` LLMs Meet Cross-Modal Time Series Analytics: Overview and Directions, Chenxi Liu, **Hao Miao**, Cheng Long, Yan Zhao, Ziyue Li, Panos Kalnis. [Homepage](https://llm-cmts.github.io/)
 
 # 📝 Publications 
+- ``TKDE 2026`` [Bridging Cross-domain Time Series: Efficient Federated Anomaly Detection with Sharded LLMs](), Ronghui Xu\*, **Hao Miao**\*, Senzhang Wang, Yan Zhao, Bin Yang, Yunjun Gao, Philip S. Yu, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
 - ``ICDE 2026`` [Balancing Competition for Fairness-aware Task Recommendation and Assignment in Spatial Crowdsourcing](), Jinwen Chen, **Hao Miao**, Lei Jia, Guangqiang Yin, Yan Zhao, Kai Zheng. <b><font color="red">[CCF A]</font></b>
 - ``ICLR 2026`` [ARROW: An Adaptive Rollout and Routing Method for Global Weather Forecasting](), Jindong Tian, Yifei Ding, Ronghui Xu, **Hao Miao**, Chenjuan Guo, Bin Yang. <b><font color="red">[CCF A]</font></b>
 - ``ICLR 2026`` [Paradigm Shift of GNN Explainer from Label Space to Prototypical Representation Space](), Jun Yin, Senzhang Wang, Ziluowen Luo, Peng Huo, Hao Yan, **Hao Miao**, Chaozhuo Li, Shirui Pan, Chengqi Zhang. <b><font color="red">[CCF A]</font></b>
