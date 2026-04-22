@@ -8,7 +8,7 @@ My main research interests lie in
 - _Trajectory Management_
 - _Large Language Models_
 
-I am recruiting a Postdoc with Prof. Qing Li. If you are interested, please email hao.miao@polyu.edu.hk.
+<b><font color="red">I am recruiting a Postdoc with <a href="https://www4.comp.polyu.edu.hk/~csqli/">Prof. Qing Li</a>. If you are interested, please email hao.miao@polyu.edu.hk.</font></b>
 
 <!-- I have published 10+ papers at top-tier DB/DM conferences and journals such as ICDE, CIKM, and TKDE. -->
 <!-- <a href='https://scholar.google.com/citations?user=eRouT0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Fmiaohaosunny.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
