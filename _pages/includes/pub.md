@@ -5,6 +5,11 @@
 - ``SSTD 2025`` LLMs Meet Cross-Modal Time Series Analytics: Overview and Directions, Chenxi Liu, **Hao Miao**, Cheng Long, Yan Zhao, Ziyue Li, Panos Kalnis. [Homepage](https://llm-cmts.github.io/)
 
 # 📝 Publications 
+- ``ICML 2026`` [Invariant Representation Learning for Source-Free Time Series Forecasting with LLM-Centric Proxy Denoising](),  Kangjia Yan, Chenxi Liu, **Hao Miao**\#, Xinle Wu, Yan Zhao, Chenjuan Guo, Bin Yang <b><font color="red">[CCF A]</font></b>
+- ``IJCAI 2026`` [From Diversity to Uniformity: Cross-modal Time Series Modeling with Dependent Channel Grouping](),  Minjun Cao, **Hao Miao**\*, Wentao Zhang, Senzhang Wang <b><font color="red">[CCF B]</font></b>
+- ``IJCAI 2026`` [Pivot-Centric Trajectory Prediction: Bridging Long Horizons via Dynamical Guidance](), Xiucong Zhao, Jindong Tian, **Hao Miao**\# <b><font color="red">[CCF B]</font></b>
+- ``IJCAI 2026`` [FreSH: Frequency-Segmented Hierarchical Multi-Expert Framework for Multivariate Time Series Classification](), Pingping Liu, Muyao Wang, Zijian Zhang, Tongshun Zhang, **Hao Miao**, Guorui Xie, Qingliang Li, Qiuzhan Zhou <b><font color="red">[CCF B]</font></b>
+- ``IJCAI 2026`` [DGCPath: Distribution-Aware Generative Contrastive Framework for Self-supervised Path Representation Learning](), Sean Bin Yang, **Hao Miao**\#, Zongyi Xu, Hu Jilin, Xiangmeng Wang, Hua Lu, Bin Yang, Christian S. Jensen. <b><font color="red">[CCF B]</font></b>
 - ``SIGIR 2026`` [Inductive Subgraphs as Shortcuts: Causal Disentanglement for Heterophilic Graph Learning](), Xiangmeng Wang, Qian Li, Haiyang Xia, **Hao Miao**, Qing Li, Guandong Xu. <b><font color="red">[CCF A]</font></b>
 - ``TKDE 2026`` [Bridging Cross-domain Time Series: Efficient Federated Anomaly Detection with Sharded LLMs](), Ronghui Xu\*, **Hao Miao**\*, Senzhang Wang, Yan Zhao, Bin Yang, Yunjun Gao, Philip S. Yu, Christian S. Jensen. <b><font color="red">[CCF A]</font></b>
 - ``ICDE 2026`` [Balancing Competition for Fairness-aware Task Recommendation and Assignment in Spatial Crowdsourcing](), Jinwen Chen, **Hao Miao**, Lei Jia, Guangqiang Yin, Yan Zhao, Kai Zheng. <b><font color="red">[CCF A]</font></b>
