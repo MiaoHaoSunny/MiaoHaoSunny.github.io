@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.03*: One paper accepted by ICML 2026 and four papers accepted by IJCAI 2026.
 - *2026.03*: We will organize a workshop, [FM4Urban](https://fm4urban.github.io/), at ECML-PKDD 2026, Naples, Italy.
 - *2026.02*: One paper accepted by ICDE 2026.
 - *2026.02*: I will serve as AC of SIGKDD 2026 (Research and ADS Track).
