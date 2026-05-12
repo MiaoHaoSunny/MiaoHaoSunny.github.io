@@ -8,6 +8,8 @@ My main research interests lie in
 - _Trajectory Management_
 - _Large Language Models_
 
+<b><font color="red">We are organizing a <a href="https://link.springer.com/journal/778/updates/27853170">special issue</a> at VLDB Journal. Welcome submissions!</font></b>
+
 <b><font color="red">I am recruiting Postdoc and Research Assistants with <a href="https://www4.comp.polyu.edu.hk/~csqli/">Prof. Qing Li</a>. If you are interested, please email hao.miao@polyu.edu.hk.</font></b>
 
 <!-- I have published 10+ papers at top-tier DB/DM conferences and journals such as ICDE, CIKM, and TKDE. -->
