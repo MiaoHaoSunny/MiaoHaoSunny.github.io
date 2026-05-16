@@ -5,6 +5,7 @@
 - ``SSTD 2025`` LLMs Meet Cross-Modal Time Series Analytics: Overview and Directions, Chenxi Liu, **Hao Miao**, Cheng Long, Yan Zhao, Ziyue Li, Panos Kalnis. [Homepage](https://llm-cmts.github.io/)
 
 # 📝 Publications 
+- ``SIGKDD 2026`` [TiWeaver: Unified Temporal Dynamics Modeling via Contextual Patching](),  Zhe Li, Jindong Tian, **Hao Miao**, Zhi Lei, Chenjuan Guo, Bin Yang. <b><font color="red">[CCF A]</font></b>
 - ``ICML 2026`` [Invariant Representation Learning for Source-Free Time Series Forecasting with LLM-Centric Proxy Denoising](),  Kangjia Yan, Chenxi Liu, **Hao Miao**\#, Xinle Wu, Yan Zhao, Chenjuan Guo, Bin Yang <b><font color="red">[CCF A]</font></b>
 - ``IJCAI 2026`` [From Diversity to Uniformity: Cross-modal Time Series Modeling with Dependent Channel Grouping](),  Minjun Cao, **Hao Miao**\*, Wentao Zhang, Senzhang Wang <b><font color="red">[CCF B]</font></b>
 - ``IJCAI 2026`` [Pivot-Centric Trajectory Prediction: Bridging Long Horizons via Dynamical Guidance](), Xiucong Zhao, Jindong Tian, **Hao Miao**\# <b><font color="red">[CCF B]</font></b>
