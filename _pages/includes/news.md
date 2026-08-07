@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.08*: Happy to serve as Editorial Board Member in Academia AI and Applications.
+- *2026.07*: I will serve as SPC and AC for AAAI and KDD 2027, respectively.
 - *2026.05*: One paper accepted by ICML 2026 and four papers accepted by IJCAI 2026.
 - *2026.03*: We will organize a workshop, [FM4Urban](https://fm4urban.github.io/), at ECML-PKDD 2026, Naples, Italy.
 - *2026.02*: One paper accepted by ICDE 2026.
