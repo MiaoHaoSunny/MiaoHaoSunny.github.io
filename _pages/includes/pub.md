@@ -8,6 +8,7 @@
 - ``SSTD 2025`` LLMs Meet Cross-Modal Time Series Analytics: Overview and Directions, Chenxi Liu, **Hao Miao**, Cheng Long, Yan Zhao, Ziyue Li, Panos Kalnis. [Homepage](https://llm-cmts.github.io/)
 
 # 📝 Publications 
+- ``TPAMI 2026`` [Pattern in Motion: Retrieval-Augmented Learning for Dynamic Spatio-Temporal Graphs](), Haoyu Zhang, Xinke Jiang, Wentao Zhang, Yuchen Fang, Hao Miao, Heqing Huang, Yifang Zhang <b><font color="red">[CCF A]</font></b>
 - ``CIKM 2026`` [ViCO: Vision-Augmented Time Series Anomaly Detection with Prototype-Guided Coordination](),  Xuesong Zeng, Minjun Cao, **Hao Miao**\#, Chenxi Liu, Senzhang Wang <b><font color="red">[CCF B, Oral]</font></b>
 - ``CIKM 2026`` [OSTAR: Online Anomalous Sub-trajectory Detection via Topology-Aware Autoregressive Reasoning](),  Zixuan Liu, Zhichen Lai, Liwei Deng, **Hao Miao**, Qingying Yu, Chao Li, Lei Jia, Yan Zhao <b><font color="red">[CCF B, Oral]</font></b>
 - ``SIGKDD 2026`` [TiWeaver: Unified Temporal Dynamics Modeling via Contextual Patching](),  Zhe Li, Jindong Tian, **Hao Miao**, Zhi Lei, Chenjuan Guo, Bin Yang <b><font color="red">[CCF A, Oral]</font></b>
