@@ -1,5 +1,5 @@
 # 📕 Book Chapters
-- ``Encyclopedia of GIS`` Federated Learning for Spatio-Temporal Data, **Hao Miao**, Bin Yang.
+- ``Encyclopedia of GIS`` [Federated Learning for Spatio-Temporal Data](https://link.springer.com/rwe/10.1007/978-3-319-23519-6_1718-1), **Hao Miao**, Bin Yang.
 
 # 📈 Tutorials
 - ``WWW 2026`` LLM-Enhanced Web-Centric Spatio-Temporal Intelligence: Methods, Applications, and Frontier Research, Zijian Zhang, **Hao Miao**, Yuxuan Liang, Yan Zhao, Irwin King. <b><font color="red">[CCF A]</font></b>
