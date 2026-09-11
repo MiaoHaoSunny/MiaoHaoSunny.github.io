@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.09*: Four papers accepted by ICDE 2027.
 - *2026.08*: Happy to serve as Editorial Board Member in Academia AI and Applications.
 - *2026.07*: I will serve as SPC and AC for AAAI and KDD 2027, respectively.
 - *2026.05*: One paper accepted by ICML 2026 and four papers accepted by IJCAI 2026.
