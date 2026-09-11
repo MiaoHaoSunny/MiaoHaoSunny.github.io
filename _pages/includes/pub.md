@@ -8,6 +8,10 @@
 - ``SSTD 2025`` LLMs Meet Cross-Modal Time Series Analytics: Overview and Directions, Chenxi Liu, **Hao Miao**, Cheng Long, Yan Zhao, Ziyue Li, Panos Kalnis. [Homepage](https://llm-cmts.github.io/)
 
 # 📝 Publications 
+- ``ICDE 2027`` [M^2Net: Unifying Scale-Specific Structures and Prototype Decomposition for Spatial-Temporal Forecasting](), Chengyang Zhou, Zijian Zhang, **Hao Miao**\#, Chunxu Zhang, Ziming Liu, Chao Tang, Juncheng Hu, Irwin, King <b><font color="red">[CCF A]</font></b>
+- ``ICDE 2027`` [TrajDC: Efficient Trajectory Similarity Learning with Length-Adaptive Dataset Condensation](), Yupu Zhang, Liwei Deng, **Hao Miao**, Ximu Zeng, Yan Zhao, Kai Zheng <b><font color="red">[CCF A]</font></b>
+- ``ICDE 2027`` [TS-Fault: Benchmarking Time Series Forecasters Against Structural Faults](), Yuyang Zhao, Lian Xu, **Hao Miao**, Chenxi Liu, Hao Xue <b><font color="red">[CCF A]</font></b>
+- ``ICDE 2027`` [TRACE: State-Aware Query Processing over Temporal Evidence Graphs for Conversational Data](), Maolin Wang, Yu Wang, Zichun Liu, Baiyuan Qiu, Chenbin Zhang, Haoran Yang, **Hao Miao**\#, <b><font color="red">[CCF A]</font></b>
 - ``TPAMI 2026`` [Pattern in Motion: Retrieval-Augmented Learning for Dynamic Spatio-Temporal Graphs](), Haoyu Zhang, Xinke Jiang, Wentao Zhang, Yuchen Fang, **Hao Miao**, Heqing Huang, Yifang Zhang <b><font color="red">[CCF A]</font></b>
 - ``CIKM 2026`` [ViCO: Vision-Augmented Time Series Anomaly Detection with Prototype-Guided Coordination](),  Xuesong Zeng, Minjun Cao, **Hao Miao**\#, Chenxi Liu, Senzhang Wang <b><font color="red">[CCF B, Oral]</font></b>
 - ``CIKM 2026`` [OSTAR: Online Anomalous Sub-trajectory Detection via Topology-Aware Autoregressive Reasoning](),  Zixuan Liu, Zhichen Lai, Liwei Deng, **Hao Miao**, Qingying Yu, Chao Li, Lei Jia, Yan Zhao <b><font color="red">[CCF B, Oral]</font></b>
