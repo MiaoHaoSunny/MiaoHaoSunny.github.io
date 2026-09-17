@@ -4,7 +4,7 @@ My name is Hao Miao. I am currently a Full Professor at Shenzhen Institute for A
 From 2018 to 2021, I studied Master in BigData 4 Urban Intelligence Lab led by <a href="https://senzhangwangcsu.github.io/index.html">Prof. Senzhang Wang</a>. From August 2020 to April 2021, I was a research intern at Tencent supervised by Dr. Diansheng Guo. I also worked as a Research Assistant at PolyU advised by [Dr. Jiaxing Shen](https://shenjiaxing.github.io/) from May 2021 to November 2021.
 
 My main research interests lie in
-- _Spatio-Temporal Data Mining
+- _Spatio-Temporal Data Mining_
 - _Time Series Analytics_
 - _Large Language Models and Agentic AI_
 
