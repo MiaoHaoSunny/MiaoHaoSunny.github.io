@@ -21,5 +21,5 @@ redirect_from:
 
 # 👀 Visitors
 <div style="float: left;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=WXQuB8n-IRNkBrDCD3AAOFaUpSmZRAEELV7Gd6spbw8&cl=ffffff&w=a"></script>
+  <a href="https://mapmyvisitors.com/web/1c8bd"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=WXQuB8n-IRNkBrDCD3AAOFaUpSmZRAEELV7Gd6spbw8&cl=ffffff" /></a>
 </div>
