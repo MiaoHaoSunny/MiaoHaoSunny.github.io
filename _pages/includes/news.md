@@ -20,8 +20,9 @@
 </style>  
 <div class="scrollable-area">  
     <ul>
+        <li><em>2026.10</em>: Serve as AC for WWW 2027. </li>
         <li><em>2026.09</em>: Four papers accepted by ICDE 2027. </li>
-        <li><em>2026.08</em>: Happy to serve as Editorial Board Member in Academia AI and Applications. </li>
+        <li><em>2026.08</em>: Happy to serve as an Editorial Board Member in Academia AI and Applications. </li>
         <li><em>2026.07</em>: I will serve as SPC and AC for AAAI and KDD 2027, respectively. </li>
         <li><em>2026.05</em>: One paper accepted by ICML 2026 and four papers accepted by IJCAI 2026. </li>
         <li><em>2026.03</em>: We will organize a workshop, [FM4Urban](https://fm4urban.github.io/), at ECML-PKDD 2026, Naples, Italy. </li>
