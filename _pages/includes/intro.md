@@ -8,7 +8,7 @@ My main research interests lie in
 - _Time Series Analytics_
 - _Large Language Models and Agentic AI_
 
-<b><font color="red">I am recruiting PhDs and Masters at the Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China. Feel free to drop me Emails if interested.</font></b>
+<b><font color="red">I am looking for self-motivated PhDs and Masters at the Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China. Feel free to drop me Emails if interested.</font></b>
 
 <b><font color="red">I am recruiting Postdoc and Research Assistants with <a href="https://www4.comp.polyu.edu.hk/~csqli/">Prof. Qing Li</a>. If you are interested, please email hao.miao@polyu.edu.hk.</font></b>
 
