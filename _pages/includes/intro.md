@@ -8,9 +8,9 @@ My main research interests lie in
 - _Time Series Analytics_
 - _Large Language Models and Agentic AI_
 
-<b><font color="red">I am looking for self-motivated PhDs and Masters at the Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China. Feel free to drop me Emails if interested.</font></b>
+<b><font color="red">I am looking for self-motivated PhDs and Masters at the Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China. Feel free to drop me Emails (hao-miao@outlook.com) if interested.</font></b>
 
-<b><font color="red">I am recruiting Postdoc and Research Assistants with <a href="https://www4.comp.polyu.edu.hk/~csqli/">Prof. Qing Li</a>. If you are interested, please email hao.miao@polyu.edu.hk.</font></b>
+<b><font color="red">I am recruiting Postdoc and Research Assistants with <a href="https://www4.comp.polyu.edu.hk/~csqli/">Prof. Qing Li</a>. If you are interested, please email hao-miao@outlook.com.</font></b>
 
 <!-- I have published 10+ papers at top-tier DB/DM conferences and journals such as ICDE, CIKM, and TKDE. -->
 <!-- <a href='https://scholar.google.com/citations?user=eRouT0MAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Fmiaohaosunny.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
