@@ -8,7 +8,7 @@ My main research interests lie in
 - _Time Series Analytics_
 - _Large Language Models and Agentic AI_
 
-<b><font color="red">We are organizing a <a href="https://link.springer.com/journal/778/updates/27853170">special issue</a>, Spatio-Temporal Data Management and Analytics: Machine Learning-based Solutions and Beyond, at VLDB Journal. Welcome submissions!</font></b>
+<b><font color="red">I am recruiting PhDs and Masters at the Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China. Feel free to drop me Emails if interested.</font></b>
 
 <b><font color="red">I am recruiting Postdoc and Research Assistants with <a href="https://www4.comp.polyu.edu.hk/~csqli/">Prof. Qing Li</a>. If you are interested, please email hao.miao@polyu.edu.hk.</font></b>
 
