@@ -8,6 +8,7 @@
 - ``SSTD 2025`` LLMs Meet Cross-Modal Time Series Analytics: Overview and Directions, Chenxi Liu, **Hao Miao**, Cheng Long, Yan Zhao, Ziyue Li, Panos Kalnis. [Homepage](https://llm-cmts.github.io/)
 
 # 📝 Publications 
+- ``SIGKDD 2027`` [MM-ISTS: Cooperating Irregularly Sampled Time Series Forecasting with Multimodal Vision-Text LLMs](), Zhi Lei, Chenxi Liu, **Hao Miao**\#, Wanghui Qiu, Bin Yang, Chenjuan Guo. <b><font color="red">[CCF A]</font></b>
 - ``ICDE 2027`` [M^2Net: Unifying Scale-Specific Structures and Prototype Decomposition for Spatial-Temporal Forecasting](), Chengyang Zhou, Zijian Zhang, **Hao Miao**\#, Chunxu Zhang, Ziming Liu, Chao Tang, Juncheng Hu, Irwin King <b><font color="red">[CCF A]</font></b>
 - ``ICDE 2027`` [TrajDC: Efficient Trajectory Similarity Learning with Length-Adaptive Dataset Condensation](), Yupu Zhang, Liwei Deng, **Hao Miao**, Ximu Zeng, Yan Zhao, Kai Zheng <b><font color="red">[CCF A]</font></b>
 - ``ICDE 2027`` [TS-Fault: Benchmarking Time Series Forecasters Against Structural Faults](), Yuyang Zhao, Lian Xu, **Hao Miao**, Chenxi Liu, Hao Xue <b><font color="red">[CCF A]</font></b>
