@@ -9,6 +9,7 @@
 
 # 📝 Publications 
 - ``SIGKDD 2027`` [MM-ISTS: Cooperating Irregularly Sampled Time Series Forecasting with Multimodal Vision-Text LLMs](), Zhi Lei, Chenxi Liu, **Hao Miao**\#, Wanghui Qiu, Bin Yang, Chenjuan Guo. <b><font color="red">[CCF A]</font></b>
+- ``PVLDB 2027`` [Protocol-Aware Benchmark for Urban Spatio-Temporal Forecasting: Temporal Information Integration and Zero-Value Handling](), Wenchao Weng, Zekai Shen, Yuchen Fang, Yimei Zhang, **Hao Miao**, Yan Zhao, Guojiang Shen, Huaiyu Wan, Xiangjie Kong, Kai Zheng, Feng Xia. <b><font color="red">[CCF A]</font></b>
 - ``ICDE 2027`` [M^2Net: Unifying Scale-Specific Structures and Prototype Decomposition for Spatial-Temporal Forecasting](), Chengyang Zhou, Zijian Zhang, **Hao Miao**\#, Chunxu Zhang, Ziming Liu, Chao Tang, Juncheng Hu, Irwin King <b><font color="red">[CCF A]</font></b>
 - ``ICDE 2027`` [TrajDC: Efficient Trajectory Similarity Learning with Length-Adaptive Dataset Condensation](), Yupu Zhang, Liwei Deng, **Hao Miao**, Ximu Zeng, Yan Zhao, Kai Zheng <b><font color="red">[CCF A]</font></b>
 - ``ICDE 2027`` [TS-Fault: Benchmarking Time Series Forecasters Against Structural Faults](), Yuyang Zhao, Lian Xu, **Hao Miao**, Chenxi Liu, Hao Xue <b><font color="red">[CCF A]</font></b>
